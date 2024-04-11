@@ -36,11 +36,9 @@ gradle -version
 ## Struttura e funzionamento
 Il progetto si compone da quattro classi:
 
-- Nel package `chat.client`:
+- Nel package `chat`:
     - L'entità [`Client`](src/main/java/chat/Client.java)
     - [`MainClient`](src/main/java/chat/MainClient.java), la classe di avvio del Client
-
-- Nel package `chat.server`:
     - L'entità [`Server`](src/main/java/chat/Server.java)
     - [`MainServer`](src/main/java/chat/MainServer.java), la classe di avvio del Server
 
