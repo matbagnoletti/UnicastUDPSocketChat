@@ -1,4 +1,4 @@
-package udpchat;
+package chat;
 
 import java.net.BindException;
 import java.net.SocketException;

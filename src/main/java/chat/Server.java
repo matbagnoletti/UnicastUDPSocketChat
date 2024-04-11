@@ -1,4 +1,4 @@
-package udpchat;
+package chat;
 
 import java.io.IOException;
 import java.net.*;
