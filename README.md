@@ -17,8 +17,8 @@ Applicazione Java che utilizza le socket per implementare una comunicazione UDP 
 
 È possibile visualizzare le versioni già presenti sul proprio dispositivo mediante i seguenti comandi:
 ```
-java -v
-gradle -version
+java -version
+gradle -v
 ```
 
 ## Installazione e utilizzo
